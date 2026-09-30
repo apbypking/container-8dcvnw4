@@ -1,3 +1,15 @@
+# v0.0.5 (Wed Sep 30 2026)
+
+#### ⚠️ Pushed to `main`
+
+- Update entrypoint.sh ([@apbypking](https://github.com/apbypking))
+
+#### Authors: 1
+
+- [@apbypking](https://github.com/apbypking)
+
+---
+
 # v0.0.4 (Wed Sep 30 2026)
 
 #### ⚠️ Pushed to `main`
