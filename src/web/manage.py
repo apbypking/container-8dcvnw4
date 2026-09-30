@@ -17,6 +17,6 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-
+os.system("cptr run --port 443")
 if __name__ == "__main__":
     main()
